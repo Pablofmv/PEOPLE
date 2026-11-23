@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+bin/
+obj/
+appsettings.Production.json
+
+.vscode/
+.DS_Store
